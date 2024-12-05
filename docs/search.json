@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "posts/2024-12-04-testpost2/index.html",
+    "href": "posts/2024-12-04-testpost2/index.html",
+    "title": "Blog post 2",
+    "section": "",
+    "text": "This is my second test blog post."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kcschott.github.io",
+    "title": "Kristen Schott",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a wildlife veterinarian and PhD student studying the disease ecology of leptospirosis in marine mammals and other coastal wildlife in the Lloyd-Smith lab at UCLA. My interest in disease ecology was sparked as an undergraduate at Princeton, where I researched the transmission of a protozoal parasite to sea otters for my senior thesis. I entered vet school at Cornell with the goal of combining clinical wildlife medicine with research to understand the underlying drivers of health and disease in my patients’ free-ranging populations. After several years pursuing specialty training in exotic companion animal and wildlife medicine, I returned to graduate school to get my PhD. Broadly, I am interested in the ecology of multi-host pathogens and the drivers of transmission across ecosystem boundaries, and I aspire to bridge the gap between clinical wildlife medicine and wildlife disease ecology by collaborating with wildlife rehabilitation centers to enhance their capacity to contribute to population-level health research.\nOutside of the lab and the clinic, I enjoy backpacking and completed a thruhike of the Appalachian Trail over the spring and summer prior to starting my PhD. I also enjoy rock climbing, paddling, dancing, and dabbling in wildlife photography and birding."
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/2024-12-04-testpost1/index.html",
+    "href": "posts/2024-12-04-testpost1/index.html",
+    "title": "First blog post",
+    "section": "",
+    "text": "Test blog post 1"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "First blog post\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBlog post 2\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

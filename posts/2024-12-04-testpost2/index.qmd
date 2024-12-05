@@ -1,0 +1,6 @@
+---
+title: "Blog post 2"
+date: 2024-12-04
+---
+
+This is my second test blog post.
