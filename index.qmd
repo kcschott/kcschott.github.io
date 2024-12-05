@@ -1,18 +1,18 @@
 ---
-title: "Kristen Schott"
-image: media/photo.jpeg
+title: "Kristen Schott, DVM"
+image: /media/photo.jpg
 toc: false
 about: 
   template: trestles
   image-shape: rounded
   image-width: 17em
   links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kristen-schott-7a4b9863/
     - text: GitHub
       href: https://github.com/kcschott
     - text: Email
-      href: mailto:kcschott@ucla.edu
+      href: mailto:kcschott@ucla.edu 
 ---
 
-I am a wildlife veterinarian and PhD student studying the disease ecology of leptospirosis in marine mammals and other coastal wildlife in the Lloyd-Smith lab at UCLA. My interest in disease ecology was sparked as an undergraduate at Princeton, where I researched the transmission of a protozoal parasite to sea otters for my senior thesis. I entered vet school at Cornell with the goal of combining clinical wildlife medicine with research to understand the underlying drivers of health and disease in my patients’ free-ranging populations. After several years pursuing specialty training in exotic companion animal and wildlife medicine, I returned to graduate school to get my PhD. Broadly, I am interested in the ecology of multi-host pathogens and the drivers of transmission across ecosystem boundaries, and I aspire to bridge the gap between clinical wildlife medicine and wildlife disease ecology by collaborating with wildlife rehabilitation centers to enhance their capacity to contribute to population-level health research.
-
-Outside of the lab and the clinic, I enjoy backpacking and completed a thruhike of the Appalachian Trail over the spring and summer prior to starting my PhD. I also enjoy rock climbing, paddling, dancing, and dabbling in wildlife photography and birding.
+I am a wildlife veterinarian and PhD student studying the disease ecology of leptospirosis in marine mammals and other coastal wildlife in the Lloyd-Smith lab at UCLA. Broadly, I am interested in the ecology of multi-host pathogens and the drivers of transmission across ecosystem boundaries, and I aspire to bridge the gap between clinical wildlife medicine and wildlife disease ecology by collaborating with wildlife rehabilitation centers to enhance their capacity to contribute to population-level health research.
